@@ -50,7 +50,7 @@ namespace Slump
             Console.WriteLine("Medianen: " + med);
             Console.ReadKey();
             */
-            //Övning 3  KLAR I ANNAN ÖVNING
+            //Övning 3   KLAR I ANNAN ÖVNING
         }
     }
 }
